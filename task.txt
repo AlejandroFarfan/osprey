@@ -1,0 +1,11 @@
+Questions: please provide short constructive answers to the below questions
+1. what is container, what is iterator, what is algorithm, and how they are linked
+2. how templates are internally used by C++
+3. how constructors work with interface
+4. what is the pointer and what is the need for smart pointers
+5. when do we need const_cast and dynamic_cast
+
+Coding: please write a simple code for the below tasks
+1. to convert number to string and vice a versa
+2. to calculate square root of a number 
+3. to read pipe delimited file into strings collection
