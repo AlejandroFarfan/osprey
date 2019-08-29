@@ -1,5 +1,6 @@
 #include "filereader.h"
 #include <fstream>
+#include <string>
 FileReader::FileReader()
 {
 }
